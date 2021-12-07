@@ -1,18 +1,38 @@
 <div>
  
- [<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="imagem de iuricode">](https://github.com/jefranca)
+ [<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="imagem de iuricode">](https://github.com/jefranca)
  
 
   Hi there, I'm Jean and I'm a  <strong>Full Stack Developer</strong> studying at [Driven Education](https://www.driven.com.br/) 
 
 <p align="left">
-  💼 Main Languages & frameworks :
+  💼 Front-End :
  </p>
-<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt=""/>  <span>&nbsp;</span>
- <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt=""/>  <span>&nbsp;</span>
+ <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt=""/> <span>&nbsp;</span>
+ <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt=""/> <span>&nbsp;</span>
  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt=""/> <span>&nbsp;</span>
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=""/> <span>&nbsp;</span>
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt=""/> <span>&nbsp;</span>
+ <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt=""/> <span>&nbsp;</span>
+ <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt=""/> <span>&nbsp;</span>
+ <!-- 
+<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt=""/> <span>&nbsp;</span>
+ <img src="" alt=""/> <span>&nbsp;</span> 
+ <img src="" alt=""/> <span>&nbsp;</span> 
+-->
+ 
+ ###
+ 
+ 
+<p align="left">
+  💼 Back-End :
+ </p>
+ <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt=""/> <span>&nbsp;</span>
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt=""/>  <span>&nbsp;</span>
+ <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt=""/>  <span>&nbsp;</span>
+ <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt=""/> <span>&nbsp;</span> 
+ <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt=""/> <span>&nbsp;</span> 
+ <img src="" alt=""/> <span>&nbsp;</span> 
  
   ###
 
@@ -31,7 +51,7 @@
   💌 How to reach me:: ⤵️
 </p>
  
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jean-frança-4b1ab121a/) <span>&nbsp;</span> <span>&nbsp;</span> [<img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:jean13franca@gmail.com) <span>&nbsp;</span> 
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jean-frança-4b1ab121a/) <span>&nbsp;</span> <span>&nbsp;</span> [<img src = "https://img.shields.io/badge/jean13franca@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:jean13franca@gmail.com) <span>&nbsp;</span> 
  
 ##
  
@@ -40,7 +60,7 @@
 ### About me
 
 - 💬 Ask me about... anything
-- 🔭 I’m recently worked on this project ... [GratiBox](https://grati-box-front.vercel.app)
+- 🔭 I’m recently worked on this project ... [Sing Me A Song](https://github.com/jefranca/Sing_Me_A_Song)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love baking while listening to Taylor Swift
  ##
