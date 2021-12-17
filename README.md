@@ -15,8 +15,8 @@
  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt=""/> <span>&nbsp;</span>
  <img src="https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white" alt=""/> <span>&nbsp;</span>
  <img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white" alt=""/> <span>&nbsp;</span>
- <!-- 
 <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt=""/> <span>&nbsp;</span>
+ <!-- 
  <img src="" alt=""/> <span>&nbsp;</span> 
  <img src="" alt=""/> <span>&nbsp;</span> 
 -->
