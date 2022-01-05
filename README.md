@@ -3,7 +3,7 @@
  [<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="imagem de iuricode">](https://github.com/jefranca)
  
 
-  Hi there, I'm Jean and I'm a  <strong>Full Stack Developer</strong> studying at [Driven Education](https://www.driven.com.br/) 
+  Hi there, I'm Jean and I'm a  <strong>Full Stack Developer</strong> graduated at [Driven Education](https://www.driven.com.br/) 
 
 <p align="left">
   💼 Front-End :
@@ -51,7 +51,7 @@
   💌 How to reach me:: ⤵️
 </p>
  
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jean-frança-4b1ab121a/) <span>&nbsp;</span> <span>&nbsp;</span> [<img src = "https://img.shields.io/badge/jean13franca@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:jean13franca@gmail.com) <span>&nbsp;</span> 
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/jeanmfranca) <span>&nbsp;</span> <span>&nbsp;</span> [<img src = "https://img.shields.io/badge/jean13franca@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">](mailto:jean13franca@gmail.com) <span>&nbsp;</span> 
  
 ##
  
