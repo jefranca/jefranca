@@ -1,9 +1,22 @@
 <div>
  
- [<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="imagem de iuricode">](https://github.com/jefranca)
- 
 
-  Hi there, I'm Jean and I'm a  <strong>Full Stack Developer</strong> graduated at [Driven Education](https://www.driven.com.br/) 
+ # Hi, I'm Jean 👋  
+### Full Stack Developer | React | Node.js | TypeScript
+
+I’m a Full Stack Developer with 1 year of professional experience and a graduate of [Driven Education](https://www.driven.com.br/).
+
+I have experience building **scalable web applications**, working with **APIs, UI/UX improvements**, and maintaining production systems.
+
+🚀 Currently looking for new opportunities as a **Full Stack Developer**
+
+  ### About me
+
+- 🔭 I recently worked on this project: [MiniShop](https://github.com/jefranca/MiniShop)
+- 😄 Pronouns: He/Him
+- 🌱 I’m currently learning Java through the Amazon Junior Software Developer Program
+- 🤔 I’m currently looking for an opportunity as a developer
+ ##
 
 <p align="left">
   💼 Front-End :
@@ -21,7 +34,7 @@
 -->
  
  ###
- 
+  [<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="350px" max-width="350px" width="350px" align="right" alt="imagem de iuricode">](https://github.com/jefranca)
  
 <p align="left">
   💼 Back-End :
@@ -56,14 +69,6 @@
 ##
  
 </div>
-
-### About me
-
-- 💬 Ask me about... anything
-- 🔭 I’m recently worked on this project ... [Sing Me A Song](https://github.com/jefranca/Sing_Me_A_Song)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love baking while listening to Taylor Swift
- ##
  
 
 <details>
